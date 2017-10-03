@@ -1,0 +1,6 @@
+D:\Programming\winform C#\LTDT_lab2\LTDT_lab2\bin\Debug\LTDT_lab2.exe.config
+D:\Programming\winform C#\LTDT_lab2\LTDT_lab2\bin\Debug\LTDT_lab2.exe
+D:\Programming\winform C#\LTDT_lab2\LTDT_lab2\bin\Debug\LTDT_lab2.pdb
+D:\Programming\winform C#\LTDT_lab2\LTDT_lab2\obj\Debug\LTDT_lab2.csprojResolveAssemblyReference.cache
+D:\Programming\winform C#\LTDT_lab2\LTDT_lab2\obj\Debug\LTDT_lab2.exe
+D:\Programming\winform C#\LTDT_lab2\LTDT_lab2\obj\Debug\LTDT_lab2.pdb
